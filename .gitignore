@@ -1,0 +1,13 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Herramientas de profesor ---
+# NO se publica;
+profe/
+U2_T2_Conceptos_basicos.ipynb
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
